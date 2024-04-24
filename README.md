@@ -4,14 +4,17 @@
 * automate the boring stuff with python by al sweigart [book]
 * pynative python exercises [code]
 * codewars in python [code]
-* python data science handbook by jake vanderplas [book]
 
 ## the AI fundamentals project
+* python data science handbook by jake vanderplas [book]
 * machine learning for absolute beginners by oliver theobald [book]
 * machine learning is fun! [articles]
 * AI for everyone by deeplearning.ai [coursera]
-* hands-on machine learning with scikit-learn and tensorflow [book]
 * the hundred-page machine learning book by andriy burkov [book]
+
+## the core AI concepts project
+* the scikit-learn official docs [docs]
+* hands-on machine learning with scikit-learn and tensorflow [book]
 * machine learning specialization by deeplearning.ai [coursera]
 
 ## the data analytics project
