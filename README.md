@@ -2,8 +2,9 @@
 
 ## the python project
 * automate the boring stuff with python by al sweigart [book]
+* python projects as recommended online [youtube]
 * pynative python exercises [code]
-* codewars in python [code]
+* codewars in python [codewars]
 
 ## the AI fundamentals project
 * python data science handbook by jake vanderplas [book]
