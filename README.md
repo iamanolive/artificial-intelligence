@@ -8,17 +8,13 @@
 ## the AI fundamentals project
 * python data science handbook by jake vanderplas [book]
 * machine learning for absolute beginners by oliver theobald [book]
-* machine learning is fun!
-    + an 8-article collection covering fundamental machine learning concepts, published on medium
-    + provides the big picture and is therefore very beginner-friendly
-    + reading these was probably one of the most fun things i've ever done
-    + completed on the 26th of April 2024
+* machine learning is fun! [article]
 * AI for everyone by deeplearning.ai [coursera]
 * the hundred-page machine learning book by andriy burkov [book]
 
 ## the core AI concepts project
 * the scikit-learn official docs [docs]
-* hands-on machine learning with scikit-learn and tensorflow [book]
+* hands-on machine learning with scikit-learn and tensorflow by aurélien géron [book]
 * machine learning specialization by deeplearning.ai [coursera]
 
 ## the data analytics project
