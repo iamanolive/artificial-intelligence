@@ -2,7 +2,6 @@
 
 ## the python project
 * automate the boring stuff with python by al sweigart [book]
-* python projects as recommended online [youtube]
 * pynative python exercises [code]
 * codewars in python [codewars]
 
@@ -19,8 +18,8 @@
 * machine learning specialization by deeplearning.ai [coursera]
 
 ## the data analytics project
+* IBM's data science professional certificate [coursera]
 * microsoft's data science for beginners curriculum [website]
-* IBM's introduction to data analytics [coursera]
 * google data analytics professional certificate [coursera]
 * google advanced data analytics professional certificate [coursera]
 * introduction to statistics [coursera]
