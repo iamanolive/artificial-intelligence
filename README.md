@@ -1,7 +1,12 @@
 # the artificial intelligence project
 
 ## the python project
-* automate the boring stuff with python by al sweigart [book]
+* python for everybody: university python course [freecodecamp]
+* object oriented programming with python [freecodecamp]
+* intermediate python course [freecodecamp]
+* data analysis with python: numpy, pandas and data visualization [freecodecamp]
+* automate with python [freecodecamp]
+* python web scraping with scrapy [freecodecamp]
 * pynative python exercises [code]
 * codewars in python [codewars]
 
@@ -11,6 +16,7 @@
 * machine learning is fun! [article]
 * AI for everyone by deeplearning.ai [coursera]
 * the hundred-page machine learning book by andriy burkov [book]
+* harvard CS50's artificial intelligence with python [harvard]
 
 ## the core AI concepts project
 * the scikit-learn official docs [docs]
@@ -18,8 +24,8 @@
 * machine learning specialization by deeplearning.ai [coursera]
 
 ## the data analytics project
+* data analytics for absolute beginners by oliver theobald [book]
 * IBM's data science professional certificate [coursera]
-* microsoft's data science for beginners curriculum [website]
 * google data analytics professional certificate [coursera]
 * google advanced data analytics professional certificate [coursera]
 * introduction to statistics [coursera]
