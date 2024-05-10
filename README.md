@@ -1,16 +1,20 @@
 # the artificial intelligence project
 
+spent 10 hrs so far on the python project. a little less than halfway through the automate the boring stuff with python book. also reading the data science handbook. for fun.
+
 ## the python project
 * automate the boring stuff with python by al sweigart [book]
-* python for everybody: university python course [freecodecamp]
+* python for everybody [freecodecamp]
 * object oriented programming with python [freecodecamp]
 * intermediate python course [freecodecamp]
-* data analysis with python: numpy, pandas and data visualization [freecodecamp]
+* data analysis with python [freecodecamp]
 * automate with python [freecodecamp]
-* python web scraping with scrapy [freecodecamp]
 * pynative python exercises [code]
 * codewars in python [codewars]
 * learn python 3 the hard way by zed shaw [book]
+
+## the web scraping project
+* python web scraping with scrapy [freecodecamp]
 
 ## the AI fundamentals project
 * python data science handbook by jake vanderplas [book]
