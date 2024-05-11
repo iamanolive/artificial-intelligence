@@ -11,10 +11,14 @@ spent 10 hrs so far on the python project. a little less than halfway through th
 * automate with python [freecodecamp]
 * pynative python exercises [code]
 * codewars in python [codewars]
-* learn python 3 the hard way by zed shaw [book]
+* data structures and algorithms in python [freecodecamp]
 
 ## the web scraping project
 * python web scraping with scrapy [freecodecamp]
+* beautiful soup tutorial [techwithtim]
+* web scraping with beautiful soup crash course [freecodecamp]
+
+## the database project
 
 ## the AI fundamentals project
 * python data science handbook by jake vanderplas [book]
@@ -50,3 +54,5 @@ spent 10 hrs so far on the python project. a little less than halfway through th
 * statistics in a nutshell by sarah boslaugh [book]
 * think stats by allen downey [book]
 * think bayes by allen downey [book]
+
+## the R project
