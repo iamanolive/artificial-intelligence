@@ -12,6 +12,8 @@ i'm going questing.
 * python data science handbook by jake vanderplas [book]
 
 ## the web scraping project
+* web scraping with python and selenium 4 [thepycoach]
+* python selenium tutorials [techwithtim]
 * python web scraping with scrapy [freecodecamp]
 * beautiful soup tutorial [techwithtim]
 * web scraping with beautiful soup crash course [freecodecamp]
