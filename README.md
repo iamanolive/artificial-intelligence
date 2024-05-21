@@ -4,16 +4,18 @@ i'm going questing.
 
 ## the python project
 * automate the boring stuff with python by al sweigart [book]
-* python for everybody [freecodecamp]
-* object oriented programming [freecodecamp]
+* the university python course [universityofmichigan]
 * pynative exercises [code]
+
+* object oriented programming [freecodecamp]
 * codewars in python [codewars]
 * data structures and algorithms [freecodecamp]
 * python data science handbook by jake vanderplas [book]
 
 ## the web scraping project
-* web scraping with python and selenium 4 [thepycoach]
-* python selenium tutorials [techwithtim]
+* building an audible scraper with selenium [thepycoach]
+* building a leetcode scraper with selenium [project]
+
 * python web scraping with scrapy [freecodecamp]
 * beautiful soup tutorial [techwithtim]
 * web scraping with beautiful soup crash course [freecodecamp]
