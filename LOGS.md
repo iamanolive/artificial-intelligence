@@ -2,4 +2,5 @@
 
 ## welcome to may of '24
 
-### the 22nd of may, a wednesday
+### the 28th of may, a tuesday
+

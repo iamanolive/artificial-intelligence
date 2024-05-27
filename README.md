@@ -2,15 +2,20 @@
 
 i'm going questing.
 
+## the python project
+* university python course [universityofmichigan]
+* object oriented programming [jimshapedcoding]
+* data structures and algorithms [jovian]
+* python data science handbook by jake vanderplas [book]
+
+
+
+
 ## the introductory AI project
 * AI for everyone by deeplearning.ai [coursera]
 * machine learning for everybody by kylie ying [freecodecamp]
 * machine learning for absolute beginners by oliver theobald [book]
 * the hundred-page machine learning book by andriy burkov [book]
-
-## the python project
-* harvard CS50's introduction to programming with python [harvard]
-* python data science handbook by jake vanderplas [book]
 
 ## the core AI concepts project
 * machine learning for beginners by ayush singh [freecodecamp]
