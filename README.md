@@ -3,13 +3,7 @@
 i'm going questing.
 
 ## the python project
-* university python course [universityofmichigan]
-* object oriented programming [jimshapedcoding]
-* data structures and algorithms [jovian]
-* python data science handbook by jake vanderplas [book]
-
-
-
+* automate the boring stuff with python by al sweigart [book]
 
 ## the introductory AI project
 * AI for everyone by deeplearning.ai [coursera]

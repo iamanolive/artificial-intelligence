@@ -1,6 +1,6 @@
 # a progress tracker of sorts
 
-## welcome to may of '24
+## welcome to june of '24
 
-### the 28th of may, a tuesday
+### the 4th of june, a tuesday
 
