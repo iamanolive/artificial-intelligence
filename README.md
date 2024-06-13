@@ -3,7 +3,7 @@
 i'm going questing.
 
 ## the python project
-* automate the boring stuff with python by al sweigart [book]
+* 
 
 ## the introductory AI project
 * AI for everyone by deeplearning.ai [coursera]
