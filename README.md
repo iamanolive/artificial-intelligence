@@ -2,9 +2,6 @@
 
 i'm going questing.
 
-## the python project
-* 
-
 ## the introductory AI project
 * AI for everyone by deeplearning.ai [coursera]
 * machine learning for everybody by kylie ying [freecodecamp]
